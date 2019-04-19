@@ -1,0 +1,17 @@
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\hello.g.cs
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\MainWindow.g.cs
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\App.g.cs
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo_MarkupCompile.cache
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo_MarkupCompile.lref
+C:\Users\usada\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\usada\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\usada\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\hello.baml
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\MainWindow.baml
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo.g.resources
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\usada\source\repos\Demo\Demo\obj\Debug\Demo.pdb
